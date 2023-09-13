@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/bvbrS4C/Banner-linkedin.png)](https://marsportfolio.vercel.app/)
 <h1 align="center">Hello 👋, I'm Owen Marscel</h1>
 <h3 align="center">A passionate Fullstack Software Developer from Indonesia.</h3>
-<img align="right" width="400" style="border-radius: 5px;" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+<img align="right" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenmarss&label=Profile%20views&color=0e75b6&style=flat" alt="owenmarss" /> </p>
 
