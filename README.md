@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **owenmarscel@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/owen-marscel/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/owen-marscel/] (https://www.linkedin.com/in/owen-marscel/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
