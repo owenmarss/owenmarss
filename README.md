@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Focus On The Family** & **Codero**.
 
-- 🌱 I’m currently learning **Mobile Development**.
+- 🌱 I’m currently learning **Mobile Development** & **Game Development**.
 
 - 👨‍💻 All of my projects are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/)
 
