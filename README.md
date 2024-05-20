@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence** & **Machine Learning**.
 
-- 👨‍💻 All of my projects are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/)
+- 👨‍💻 All of my projects (2023) are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/) 
 
 - 📫 How to reach me **owenmarscel@gmail.com**
 
