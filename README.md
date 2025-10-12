@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenmarss&label=Profile%20views&color=0e75b6&style=flat" alt="owenmarss" /> </p>
 
-- 🔭 I’m currently working on **Codero Education**.
+- 🔭 I’m currently working on **FLOQ**.
 
-- 🌱 I’m currently learning **Artificial Intelligence** & **Machine Learning**.
+- 🌱 I’m currently learning **Blockchain Development** & **Machine Learning**.
 
 - 👨‍💻 All of my projects (2023) are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/) 
 
