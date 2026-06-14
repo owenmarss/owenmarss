@@ -83,6 +83,14 @@
             height="40"
         />
     </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+            alt="golang"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
@@ -185,7 +193,7 @@
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
             alt="laravel"
             width="40"
             height="40"
