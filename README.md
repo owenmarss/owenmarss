@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenmarss&label=Profile%20views&color=0e75b6&style=flat" alt="owenmarss" /> </p>
 
-- 🔭 I’m currently working at **FLOQ**.
+- 🔭 I’m currently working at **FLOQ, Indonesia**.
 
 - 🌱 I’m currently learning **Blockchain Development** & **Machine Learning**.
 
