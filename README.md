@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development** & **Machine Learning**.
 
-- 👨‍💻 All of my projects (2023) are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/) 
+- 👨‍💻 All of my projects (2023) are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/) <b>Archived (currently making a new one)</b>
 
 - 📫 How to reach me **owenmarscel@gmail.com**
 
