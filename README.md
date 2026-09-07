@@ -1,13 +1,13 @@
 [![MasterHead](https://i.ibb.co/bvbrS4C/Banner-linkedin.png)](https://marsportfolio.vercel.app/)
 <h1 align="center">Hello 👋, I'm Owen Marscel</h1>
-<h3 align="center">A passionate Fullstack Software Engineer and Part-Time Programming Teacher from Indonesia.</h3>
+<h3 align="center">A passionate Fullstack Software Engineer and international master's student from Indonesia.</h3>
 <img align="right" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenmarss&label=Profile%20views&color=0e75b6&style=flat" alt="owenmarss" /> </p>
 
 - 🔭 I’m currently working at **FLOQ, Indonesia**.
 
-- 🌱 I’m currently learning **Blockchain Development** & **Machine Learning**.
+- 🌱 I’m currently learning **Artificial Intelligence** & **Machine Learning**.
 
 - 👨‍💻 All of my projects (2023) are available at [https://marsportfolio.vercel.app/](https://marsportfolio.vercel.app/) <b>[*Archived (currently making a new one)]</b>
 
